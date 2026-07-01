@@ -1,4 +1,4 @@
----
+api/nattakit---
 title: Configure OpenID Connect with the authorization code flow and Okta
 permalink: /how-to/configure-oidc-with-auth-code-flow-and-okta/
 content_type: how_to
